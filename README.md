@@ -12,15 +12,25 @@ addition to any team, I bring a blend of technical prowess, innovative thinking,
 a track record of delivering remarkable outcomes. Prepare to witness the transformative
 power I bring to the table, revolutionizing the future of computer engineering.
 
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/praveenkumar236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="praveenkumar-236" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pk-b87b3b212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveenkumar-236" height="30" width="40" /></a>
-<a href="https://leetcode.com/_Praveen_Kumar_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="praveenkumar-236" height="30" width="40" /></a>
+<h3 style="text-align: left; font-family: 'Arial', sans-serif; font-weight: bold; color: #000;">Reach out to me:</h3>
+<p style="text-align: left;">
+  <a href="https://www.linkedin.com/in/pk-b87b3b212/" target="_blank">
+    <img style="vertical-align: middle;" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/_Praveen_Kumar_/" target="_blank">
+    <img style="vertical-align: middle;" alt="LeetCode" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
+  <a href="https://dev.to/praveenkumar236" target="_blank">
+    <img style="vertical-align: middle;" alt="dev.to" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/praveen236?hr_r=1" target="_blank">
+  <img style="vertical-align: middle;" alt="HackerRank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+</a>
+ 
+ 
 </p>
+
+
 
 
  <h3 align="left">Languages and Tools:</h3>
