@@ -1,7 +1,6 @@
-<img align="right" width="50%" src="https://github.com/praveenkumar-236/praveenkumar-236/blob/master/assets/praveen.gif">
+<img align="right" width="50%" src="https://github.com/praveenkumar-236/praveenkumar-236/blob/main/assets/icons/Praveen.gif">
 
-# Hey, I'm [Praveen!](https://praveenkumar-236.github.io) (https://parthketandoshi.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-<!-- <img width="40%" src="https://github.com/praveenkumar-236/praveenkumar-236/blob/master/assets/designer_developer.gif"> --><!-- ## Designer & Developer -->
+# Hey, I'm [Praveen!](https://praveenkumar-236.github.io) 
 
 Technically Proficient Computer Engineer driven by an insatiable passion for programming and an unwavering commitment to excellence. With a robust skill set and a proven ability to solve intricate problems, I am a force to be reckoned with in the realm of technology. I thrive on challenges and embrace them as opportunities for growth, continuously expanding my knowledge and pushing boundaries. A true maven of versatility, I possess a remarkable aptitude for learning and quickly mastering new domains. As a valuable addition to any team, I bring a blend of technical prowess, innovative thinking, and a track record of delivering remarkable outcomes. Prepare to witness the transformative power I bring to the table, revolutionizing the future of computer engineering.
 
