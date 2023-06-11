@@ -2,17 +2,18 @@
 
 # Hey, I'm [Praveen!](https://praveenkumar-236.github.io) 
 
-Technically Proficient Computer Engineer driven by an insatiable passion for programming and an unwavering commitment to excellence. With a robust skill set and a proven ability to solve intricate problems, I am a force to be reckoned with in the realm of technology. I thrive on challenges and embrace them as opportunities for growth, continuously expanding my knowledge and pushing boundaries. A true maven of versatility, I possess a remarkable aptitude for learning and quickly mastering new domains. As a valuable addition to any team, I bring a blend of technical prowess, innovative thinking, and a track record of delivering remarkable outcomes. Prepare to witness the transformative power I bring to the table, revolutionizing the future of computer engineering.
+Technically Proficient Computer Engineer driven by an insatiable passion for programming
+and an unwavering commitment to excellence. With a robust skill set and a proven ability
+to solve intricate problems, I am a force to be reckoned with in the realm of technology.
+I thrive on challenges and embrace them as opportunities for growth, continuously
+expanding my knowledge and pushing boundaries. A true maven of versatility, I possess
+a remarkable aptitude for learning and quickly mastering new domains. As a valuable
+addition to any team, I bring a blend of technical prowess, innovative thinking, and
+a track record of delivering remarkable outcomes. Prepare to witness the transformative
+power I bring to the table, revolutionizing the future of computer engineering.
 
-<!--  <h3 align="center">A Passionate Fullstack Java Developer From India</h3> 
- -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenkumar-236&label=Profile%20views&color=0e75b6&style=flat" alt="praveenkumar-236" /> </p>
- -->
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Praveenkumar-23" alt="Praveenkumar-23" /></a> </p> -->
 
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
